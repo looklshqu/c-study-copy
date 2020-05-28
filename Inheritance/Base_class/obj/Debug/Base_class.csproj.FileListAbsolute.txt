@@ -1,0 +1,7 @@
+D:\c# study\Inheritance\Base_class\bin\Debug\Base_class.exe.config
+D:\c# study\Inheritance\Base_class\bin\Debug\Base_class.exe
+D:\c# study\Inheritance\Base_class\bin\Debug\Base_class.pdb
+D:\c# study\Inheritance\Base_class\obj\Debug\Base_class.csprojAssemblyReference.cache
+D:\c# study\Inheritance\Base_class\obj\Debug\Base_class.csproj.CoreCompileInputs.cache
+D:\c# study\Inheritance\Base_class\obj\Debug\Base_class.exe
+D:\c# study\Inheritance\Base_class\obj\Debug\Base_class.pdb

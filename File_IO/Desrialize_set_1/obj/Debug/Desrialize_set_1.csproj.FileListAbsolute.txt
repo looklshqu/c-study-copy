@@ -1,0 +1,6 @@
+C:\Users\Qubesoft\source\repos\File_IO\Desrialize_set_1\bin\Debug\Desrialize_set_1.exe.config
+C:\Users\Qubesoft\source\repos\File_IO\Desrialize_set_1\bin\Debug\Desrialize_set_1.exe
+C:\Users\Qubesoft\source\repos\File_IO\Desrialize_set_1\bin\Debug\Desrialize_set_1.pdb
+C:\Users\Qubesoft\source\repos\File_IO\Desrialize_set_1\obj\Debug\Desrialize_set_1.csproj.CoreCompileInputs.cache
+C:\Users\Qubesoft\source\repos\File_IO\Desrialize_set_1\obj\Debug\Desrialize_set_1.exe
+C:\Users\Qubesoft\source\repos\File_IO\Desrialize_set_1\obj\Debug\Desrialize_set_1.pdb

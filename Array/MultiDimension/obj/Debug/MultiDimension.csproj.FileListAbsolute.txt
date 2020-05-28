@@ -1,0 +1,7 @@
+C:\Users\Qubesoft\source\repos\Array\MultiDimension\bin\Debug\MultiDimension.exe.config
+C:\Users\Qubesoft\source\repos\Array\MultiDimension\bin\Debug\MultiDimension.exe
+C:\Users\Qubesoft\source\repos\Array\MultiDimension\bin\Debug\MultiDimension.pdb
+C:\Users\Qubesoft\source\repos\Array\MultiDimension\obj\Debug\MultiDimension.csprojAssemblyReference.cache
+C:\Users\Qubesoft\source\repos\Array\MultiDimension\obj\Debug\MultiDimension.csproj.CoreCompileInputs.cache
+C:\Users\Qubesoft\source\repos\Array\MultiDimension\obj\Debug\MultiDimension.exe
+C:\Users\Qubesoft\source\repos\Array\MultiDimension\obj\Debug\MultiDimension.pdb

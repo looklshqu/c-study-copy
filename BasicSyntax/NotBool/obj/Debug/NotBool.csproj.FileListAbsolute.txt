@@ -1,0 +1,7 @@
+D:\c# study\BasicSyntax\NotBool\bin\Debug\NotBool.exe.config
+D:\c# study\BasicSyntax\NotBool\bin\Debug\NotBool.exe
+D:\c# study\BasicSyntax\NotBool\bin\Debug\NotBool.pdb
+D:\c# study\BasicSyntax\NotBool\obj\Debug\NotBool.csprojAssemblyReference.cache
+D:\c# study\BasicSyntax\NotBool\obj\Debug\NotBool.csproj.CoreCompileInputs.cache
+D:\c# study\BasicSyntax\NotBool\obj\Debug\NotBool.exe
+D:\c# study\BasicSyntax\NotBool\obj\Debug\NotBool.pdb

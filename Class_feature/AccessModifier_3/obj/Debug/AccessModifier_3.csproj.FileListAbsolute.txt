@@ -1,0 +1,6 @@
+D:\c# study\Class_feature\AccessModifier_3\bin\Debug\AccessModifier_3.exe.config
+D:\c# study\Class_feature\AccessModifier_3\bin\Debug\AccessModifier_3.exe
+D:\c# study\Class_feature\AccessModifier_3\bin\Debug\AccessModifier_3.pdb
+D:\c# study\Class_feature\AccessModifier_3\obj\Debug\AccessModifier_3.csproj.CoreCompileInputs.cache
+D:\c# study\Class_feature\AccessModifier_3\obj\Debug\AccessModifier_3.exe
+D:\c# study\Class_feature\AccessModifier_3\obj\Debug\AccessModifier_3.pdb

@@ -1,0 +1,6 @@
+C:\Users\Qubesoft\source\repos\Array\ArrayReturnToFunc\bin\Debug\ArrayReturnToFunc.exe.config
+C:\Users\Qubesoft\source\repos\Array\ArrayReturnToFunc\bin\Debug\ArrayReturnToFunc.exe
+C:\Users\Qubesoft\source\repos\Array\ArrayReturnToFunc\bin\Debug\ArrayReturnToFunc.pdb
+C:\Users\Qubesoft\source\repos\Array\ArrayReturnToFunc\obj\Debug\ArrayReturnToFunc.csproj.CoreCompileInputs.cache
+C:\Users\Qubesoft\source\repos\Array\ArrayReturnToFunc\obj\Debug\ArrayReturnToFunc.exe
+C:\Users\Qubesoft\source\repos\Array\ArrayReturnToFunc\obj\Debug\ArrayReturnToFunc.pdb

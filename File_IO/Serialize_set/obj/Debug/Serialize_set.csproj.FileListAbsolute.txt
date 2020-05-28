@@ -1,0 +1,7 @@
+C:\Users\Qubesoft\source\repos\File_IO\Serialize_set\bin\Debug\Serialize_set.exe.config
+C:\Users\Qubesoft\source\repos\File_IO\Serialize_set\bin\Debug\Serialize_set.exe
+C:\Users\Qubesoft\source\repos\File_IO\Serialize_set\bin\Debug\Serialize_set.pdb
+C:\Users\Qubesoft\source\repos\File_IO\Serialize_set\obj\Debug\Serialize_set.csprojAssemblyReference.cache
+C:\Users\Qubesoft\source\repos\File_IO\Serialize_set\obj\Debug\Serialize_set.csproj.CoreCompileInputs.cache
+C:\Users\Qubesoft\source\repos\File_IO\Serialize_set\obj\Debug\Serialize_set.exe
+C:\Users\Qubesoft\source\repos\File_IO\Serialize_set\obj\Debug\Serialize_set.pdb

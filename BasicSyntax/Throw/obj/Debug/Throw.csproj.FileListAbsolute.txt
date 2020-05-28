@@ -1,0 +1,7 @@
+D:\c# study\BasicSyntax\Throw\bin\Debug\Throw.exe.config
+D:\c# study\BasicSyntax\Throw\bin\Debug\Throw.exe
+D:\c# study\BasicSyntax\Throw\bin\Debug\Throw.pdb
+D:\c# study\BasicSyntax\Throw\obj\Debug\Throw.csprojAssemblyReference.cache
+D:\c# study\BasicSyntax\Throw\obj\Debug\Throw.csproj.CoreCompileInputs.cache
+D:\c# study\BasicSyntax\Throw\obj\Debug\Throw.exe
+D:\c# study\BasicSyntax\Throw\obj\Debug\Throw.pdb

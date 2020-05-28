@@ -1,0 +1,7 @@
+D:\c# study\BasicSyntax\NullOperator\bin\Debug\NullOperator.exe.config
+D:\c# study\BasicSyntax\NullOperator\bin\Debug\NullOperator.exe
+D:\c# study\BasicSyntax\NullOperator\bin\Debug\NullOperator.pdb
+D:\c# study\BasicSyntax\NullOperator\obj\Debug\NullOperator.csprojAssemblyReference.cache
+D:\c# study\BasicSyntax\NullOperator\obj\Debug\NullOperator.csproj.CoreCompileInputs.cache
+D:\c# study\BasicSyntax\NullOperator\obj\Debug\NullOperator.exe
+D:\c# study\BasicSyntax\NullOperator\obj\Debug\NullOperator.pdb

@@ -1,0 +1,7 @@
+C:\Users\Qubesoft\source\repos\File_IO\BinaryReader_2\bin\Debug\BinaryReader_2.exe.config
+C:\Users\Qubesoft\source\repos\File_IO\BinaryReader_2\bin\Debug\BinaryReader_2.exe
+C:\Users\Qubesoft\source\repos\File_IO\BinaryReader_2\bin\Debug\BinaryReader_2.pdb
+C:\Users\Qubesoft\source\repos\File_IO\BinaryReader_2\obj\Debug\BinaryReader_2.csprojAssemblyReference.cache
+C:\Users\Qubesoft\source\repos\File_IO\BinaryReader_2\obj\Debug\BinaryReader_2.csproj.CoreCompileInputs.cache
+C:\Users\Qubesoft\source\repos\File_IO\BinaryReader_2\obj\Debug\BinaryReader_2.exe
+C:\Users\Qubesoft\source\repos\File_IO\BinaryReader_2\obj\Debug\BinaryReader_2.pdb

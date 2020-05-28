@@ -1,0 +1,6 @@
+C:\Users\Qubesoft\source\repos\File_IO\BinaryWriter\bin\Debug\BinaryWriter.exe.config
+C:\Users\Qubesoft\source\repos\File_IO\BinaryWriter\bin\Debug\BinaryWriter.exe
+C:\Users\Qubesoft\source\repos\File_IO\BinaryWriter\bin\Debug\BinaryWriter.pdb
+C:\Users\Qubesoft\source\repos\File_IO\BinaryWriter\obj\Debug\BinaryWriter_1.csproj.CoreCompileInputs.cache
+C:\Users\Qubesoft\source\repos\File_IO\BinaryWriter\obj\Debug\BinaryWriter.exe
+C:\Users\Qubesoft\source\repos\File_IO\BinaryWriter\obj\Debug\BinaryWriter.pdb

@@ -1,0 +1,7 @@
+C:\Users\Qubesoft\source\repos\File_IO\FileStream_1\bin\Debug\FileStream_1.exe.config
+C:\Users\Qubesoft\source\repos\File_IO\FileStream_1\bin\Debug\FileStream_1.exe
+C:\Users\Qubesoft\source\repos\File_IO\FileStream_1\bin\Debug\FileStream_1.pdb
+C:\Users\Qubesoft\source\repos\File_IO\FileStream_1\obj\Debug\FileStream_1.csprojAssemblyReference.cache
+C:\Users\Qubesoft\source\repos\File_IO\FileStream_1\obj\Debug\FileStream_1.csproj.CoreCompileInputs.cache
+C:\Users\Qubesoft\source\repos\File_IO\FileStream_1\obj\Debug\FileStream_1.exe
+C:\Users\Qubesoft\source\repos\File_IO\FileStream_1\obj\Debug\FileStream_1.pdb

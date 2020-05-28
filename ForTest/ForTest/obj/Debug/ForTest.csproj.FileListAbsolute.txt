@@ -1,0 +1,7 @@
+D:\c# study\ForTest\ForTest\bin\Debug\ForTest.exe.config
+D:\c# study\ForTest\ForTest\bin\Debug\ForTest.exe
+D:\c# study\ForTest\ForTest\bin\Debug\ForTest.pdb
+D:\c# study\ForTest\ForTest\obj\Debug\ForTest.csprojAssemblyReference.cache
+D:\c# study\ForTest\ForTest\obj\Debug\ForTest.csproj.CoreCompileInputs.cache
+D:\c# study\ForTest\ForTest\obj\Debug\ForTest.exe
+D:\c# study\ForTest\ForTest\obj\Debug\ForTest.pdb

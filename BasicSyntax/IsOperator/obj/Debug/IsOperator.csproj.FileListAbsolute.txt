@@ -1,0 +1,7 @@
+D:\c# study\BasicSyntax\IsOperator\bin\Debug\IsOperator.exe.config
+D:\c# study\BasicSyntax\IsOperator\bin\Debug\IsOperator.exe
+D:\c# study\BasicSyntax\IsOperator\bin\Debug\IsOperator.pdb
+D:\c# study\BasicSyntax\IsOperator\obj\Debug\IsOperator.csprojAssemblyReference.cache
+D:\c# study\BasicSyntax\IsOperator\obj\Debug\IsOperator.csproj.CoreCompileInputs.cache
+D:\c# study\BasicSyntax\IsOperator\obj\Debug\IsOperator.exe
+D:\c# study\BasicSyntax\IsOperator\obj\Debug\IsOperator.pdb

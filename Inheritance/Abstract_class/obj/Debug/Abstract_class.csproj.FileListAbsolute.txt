@@ -1,0 +1,7 @@
+D:\c# study\Inheritance\Abstract_class\bin\Debug\Abstract_class.exe.config
+D:\c# study\Inheritance\Abstract_class\bin\Debug\Abstract_class.exe
+D:\c# study\Inheritance\Abstract_class\bin\Debug\Abstract_class.pdb
+D:\c# study\Inheritance\Abstract_class\obj\Debug\Abstract_class.csprojAssemblyReference.cache
+D:\c# study\Inheritance\Abstract_class\obj\Debug\Abstract_class.csproj.CoreCompileInputs.cache
+D:\c# study\Inheritance\Abstract_class\obj\Debug\Abstract_class.exe
+D:\c# study\Inheritance\Abstract_class\obj\Debug\Abstract_class.pdb

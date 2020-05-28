@@ -1,0 +1,6 @@
+C:\Users\Qubesoft\source\repos\File_IO\BinaryReader_1\bin\Debug\BinaryReader_1.exe.config
+C:\Users\Qubesoft\source\repos\File_IO\BinaryReader_1\bin\Debug\BinaryReader_1.exe
+C:\Users\Qubesoft\source\repos\File_IO\BinaryReader_1\bin\Debug\BinaryReader_1.pdb
+C:\Users\Qubesoft\source\repos\File_IO\BinaryReader_1\obj\Debug\BinaryReader_1.csproj.CoreCompileInputs.cache
+C:\Users\Qubesoft\source\repos\File_IO\BinaryReader_1\obj\Debug\BinaryReader_1.exe
+C:\Users\Qubesoft\source\repos\File_IO\BinaryReader_1\obj\Debug\BinaryReader_1.pdb

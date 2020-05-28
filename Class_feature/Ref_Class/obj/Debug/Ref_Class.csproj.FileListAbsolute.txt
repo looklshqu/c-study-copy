@@ -1,0 +1,6 @@
+D:\c# study\Class_feature\Ref_Class\bin\Debug\Ref_Class.exe.config
+D:\c# study\Class_feature\Ref_Class\bin\Debug\Ref_Class.exe
+D:\c# study\Class_feature\Ref_Class\bin\Debug\Ref_Class.pdb
+D:\c# study\Class_feature\Ref_Class\obj\Debug\Ref_Class.csproj.CoreCompileInputs.cache
+D:\c# study\Class_feature\Ref_Class\obj\Debug\Ref_Class.exe
+D:\c# study\Class_feature\Ref_Class\obj\Debug\Ref_Class.pdb

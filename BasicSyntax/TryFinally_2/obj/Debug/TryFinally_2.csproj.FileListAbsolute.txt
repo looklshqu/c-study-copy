@@ -1,0 +1,6 @@
+D:\c# study\BasicSyntax\TryFinally_2\bin\Debug\TryFinally_2.exe.config
+D:\c# study\BasicSyntax\TryFinally_2\bin\Debug\TryFinally_2.exe
+D:\c# study\BasicSyntax\TryFinally_2\bin\Debug\TryFinally_2.pdb
+D:\c# study\BasicSyntax\TryFinally_2\obj\Debug\TryFinally_2.csproj.CoreCompileInputs.cache
+D:\c# study\BasicSyntax\TryFinally_2\obj\Debug\TryFinally_2.exe
+D:\c# study\BasicSyntax\TryFinally_2\obj\Debug\TryFinally_2.pdb

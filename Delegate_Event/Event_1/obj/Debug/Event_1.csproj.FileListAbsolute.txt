@@ -1,0 +1,7 @@
+D:\c# study\Delegate_Event\Event_1\bin\Debug\Event_1.exe.config
+D:\c# study\Delegate_Event\Event_1\bin\Debug\Event_1.exe
+D:\c# study\Delegate_Event\Event_1\bin\Debug\Event_1.pdb
+D:\c# study\Delegate_Event\Event_1\obj\Debug\Event_1.csprojAssemblyReference.cache
+D:\c# study\Delegate_Event\Event_1\obj\Debug\Event_1.csproj.CoreCompileInputs.cache
+D:\c# study\Delegate_Event\Event_1\obj\Debug\Event_1.exe
+D:\c# study\Delegate_Event\Event_1\obj\Debug\Event_1.pdb

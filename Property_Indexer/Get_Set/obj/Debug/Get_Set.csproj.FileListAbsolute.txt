@@ -1,0 +1,7 @@
+D:\c# study\Property_Indexer\Get_Set\bin\Debug\Get_Set.exe.config
+D:\c# study\Property_Indexer\Get_Set\bin\Debug\Get_Set.exe
+D:\c# study\Property_Indexer\Get_Set\bin\Debug\Get_Set.pdb
+D:\c# study\Property_Indexer\Get_Set\obj\Debug\Get_Set.csprojAssemblyReference.cache
+D:\c# study\Property_Indexer\Get_Set\obj\Debug\Get_Set.csproj.CoreCompileInputs.cache
+D:\c# study\Property_Indexer\Get_Set\obj\Debug\Get_Set.exe
+D:\c# study\Property_Indexer\Get_Set\obj\Debug\Get_Set.pdb

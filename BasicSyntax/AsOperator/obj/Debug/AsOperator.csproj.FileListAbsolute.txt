@@ -1,0 +1,6 @@
+D:\c# study\BasicSyntax\AsOperator\bin\Debug\AsOperator.exe.config
+D:\c# study\BasicSyntax\AsOperator\bin\Debug\AsOperator.exe
+D:\c# study\BasicSyntax\AsOperator\bin\Debug\AsOperator.pdb
+D:\c# study\BasicSyntax\AsOperator\obj\Debug\AsOperator.csproj.CoreCompileInputs.cache
+D:\c# study\BasicSyntax\AsOperator\obj\Debug\AsOperator.exe
+D:\c# study\BasicSyntax\AsOperator\obj\Debug\AsOperator.pdb

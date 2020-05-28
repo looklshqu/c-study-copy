@@ -1,0 +1,7 @@
+D:\c# study\BasicSyntax\Exception_IndexOf\bin\Debug\Exception_IndexOf.exe.config
+D:\c# study\BasicSyntax\Exception_IndexOf\bin\Debug\Exception_IndexOf.exe
+D:\c# study\BasicSyntax\Exception_IndexOf\bin\Debug\Exception_IndexOf.pdb
+D:\c# study\BasicSyntax\Exception_IndexOf\obj\Debug\Exception_IndexOf.csprojAssemblyReference.cache
+D:\c# study\BasicSyntax\Exception_IndexOf\obj\Debug\Exception_IndexOf.csproj.CoreCompileInputs.cache
+D:\c# study\BasicSyntax\Exception_IndexOf\obj\Debug\Exception_IndexOf.exe
+D:\c# study\BasicSyntax\Exception_IndexOf\obj\Debug\Exception_IndexOf.pdb

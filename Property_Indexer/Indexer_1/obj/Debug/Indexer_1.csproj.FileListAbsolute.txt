@@ -1,0 +1,7 @@
+D:\c# study\Property_Indexer\Indexer_1\bin\Debug\Indexer_1.exe.config
+D:\c# study\Property_Indexer\Indexer_1\bin\Debug\Indexer_1.exe
+D:\c# study\Property_Indexer\Indexer_1\bin\Debug\Indexer_1.pdb
+D:\c# study\Property_Indexer\Indexer_1\obj\Debug\Indexer_1.csprojAssemblyReference.cache
+D:\c# study\Property_Indexer\Indexer_1\obj\Debug\Indexer_1.csproj.CoreCompileInputs.cache
+D:\c# study\Property_Indexer\Indexer_1\obj\Debug\Indexer_1.exe
+D:\c# study\Property_Indexer\Indexer_1\obj\Debug\Indexer_1.pdb

@@ -1,0 +1,7 @@
+C:\Users\Qubesoft\source\repos\File_IO\SerializeOfCollection\bin\Debug\SerializeOfCollection.exe.config
+C:\Users\Qubesoft\source\repos\File_IO\SerializeOfCollection\bin\Debug\SerializeOfCollection.exe
+C:\Users\Qubesoft\source\repos\File_IO\SerializeOfCollection\bin\Debug\SerializeOfCollection.pdb
+C:\Users\Qubesoft\source\repos\File_IO\SerializeOfCollection\obj\Debug\SerializeOfCollection.csprojAssemblyReference.cache
+C:\Users\Qubesoft\source\repos\File_IO\SerializeOfCollection\obj\Debug\SerializeOfCollection.csproj.CoreCompileInputs.cache
+C:\Users\Qubesoft\source\repos\File_IO\SerializeOfCollection\obj\Debug\SerializeOfCollection.exe
+C:\Users\Qubesoft\source\repos\File_IO\SerializeOfCollection\obj\Debug\SerializeOfCollection.pdb

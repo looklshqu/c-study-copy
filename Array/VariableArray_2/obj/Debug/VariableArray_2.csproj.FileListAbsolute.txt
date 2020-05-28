@@ -1,0 +1,6 @@
+C:\Users\Qubesoft\source\repos\Array\VariableArray_2\bin\Debug\VariableArray_2.exe.config
+C:\Users\Qubesoft\source\repos\Array\VariableArray_2\bin\Debug\VariableArray_2.exe
+C:\Users\Qubesoft\source\repos\Array\VariableArray_2\bin\Debug\VariableArray_2.pdb
+C:\Users\Qubesoft\source\repos\Array\VariableArray_2\obj\Debug\VariableArray_2.csproj.CoreCompileInputs.cache
+C:\Users\Qubesoft\source\repos\Array\VariableArray_2\obj\Debug\VariableArray_2.exe
+C:\Users\Qubesoft\source\repos\Array\VariableArray_2\obj\Debug\VariableArray_2.pdb

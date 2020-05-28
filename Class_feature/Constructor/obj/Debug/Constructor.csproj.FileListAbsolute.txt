@@ -1,0 +1,6 @@
+D:\c# study\Class_feature\Constructor\bin\Debug\Constructor.exe.config
+D:\c# study\Class_feature\Constructor\bin\Debug\Constructor.exe
+D:\c# study\Class_feature\Constructor\bin\Debug\Constructor.pdb
+D:\c# study\Class_feature\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+D:\c# study\Class_feature\Constructor\obj\Debug\Constructor.exe
+D:\c# study\Class_feature\Constructor\obj\Debug\Constructor.pdb

@@ -1,0 +1,7 @@
+C:\Users\Qubesoft\source\repos\File_IO\DataSplit_string\bin\Debug\DataSplit_string.exe.config
+C:\Users\Qubesoft\source\repos\File_IO\DataSplit_string\bin\Debug\DataSplit_string.exe
+C:\Users\Qubesoft\source\repos\File_IO\DataSplit_string\bin\Debug\DataSplit_string.pdb
+C:\Users\Qubesoft\source\repos\File_IO\DataSplit_string\obj\Debug\DataSplit_string.csprojAssemblyReference.cache
+C:\Users\Qubesoft\source\repos\File_IO\DataSplit_string\obj\Debug\DataSplit_string.csproj.CoreCompileInputs.cache
+C:\Users\Qubesoft\source\repos\File_IO\DataSplit_string\obj\Debug\DataSplit_string.exe
+C:\Users\Qubesoft\source\repos\File_IO\DataSplit_string\obj\Debug\DataSplit_string.pdb

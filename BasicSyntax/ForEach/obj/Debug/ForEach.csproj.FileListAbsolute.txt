@@ -1,0 +1,6 @@
+D:\c# study\BasicSyntax\ForEach\bin\Debug\ForEach.exe.config
+D:\c# study\BasicSyntax\ForEach\bin\Debug\ForEach.exe
+D:\c# study\BasicSyntax\ForEach\bin\Debug\ForEach.pdb
+D:\c# study\BasicSyntax\ForEach\obj\Debug\ForEach.csproj.CoreCompileInputs.cache
+D:\c# study\BasicSyntax\ForEach\obj\Debug\ForEach.exe
+D:\c# study\BasicSyntax\ForEach\obj\Debug\ForEach.pdb

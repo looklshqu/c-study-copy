@@ -1,0 +1,6 @@
+D:\c# study\BasicSyntax\TryCatch\bin\Debug\TryCatch.exe.config
+D:\c# study\BasicSyntax\TryCatch\bin\Debug\TryCatch.exe
+D:\c# study\BasicSyntax\TryCatch\bin\Debug\TryCatch.pdb
+D:\c# study\BasicSyntax\TryCatch\obj\Debug\TryCatch.csproj.CoreCompileInputs.cache
+D:\c# study\BasicSyntax\TryCatch\obj\Debug\TryCatch.exe
+D:\c# study\BasicSyntax\TryCatch\obj\Debug\TryCatch.pdb

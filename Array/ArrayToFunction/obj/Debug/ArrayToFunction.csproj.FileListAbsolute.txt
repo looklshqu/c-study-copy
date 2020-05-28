@@ -1,0 +1,7 @@
+C:\Users\Qubesoft\source\repos\Array\ArrayToFunction\bin\Debug\ArrayToFunction.exe.config
+C:\Users\Qubesoft\source\repos\Array\ArrayToFunction\bin\Debug\ArrayToFunction.exe
+C:\Users\Qubesoft\source\repos\Array\ArrayToFunction\bin\Debug\ArrayToFunction.pdb
+C:\Users\Qubesoft\source\repos\Array\ArrayToFunction\obj\Debug\ArrayToFunction.csproj.CoreCompileInputs.cache
+C:\Users\Qubesoft\source\repos\Array\ArrayToFunction\obj\Debug\ArrayToFunction.exe
+C:\Users\Qubesoft\source\repos\Array\ArrayToFunction\obj\Debug\ArrayToFunction.pdb
+C:\Users\Qubesoft\source\repos\Array\ArrayToFunction\obj\Debug\ArrayToFunction.csprojAssemblyReference.cache

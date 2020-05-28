@@ -1,0 +1,6 @@
+C:\Users\Qubesoft\source\repos\Array\MethodOfArray2\bin\Debug\MethodOfArray2.exe.config
+C:\Users\Qubesoft\source\repos\Array\MethodOfArray2\bin\Debug\MethodOfArray2.exe
+C:\Users\Qubesoft\source\repos\Array\MethodOfArray2\bin\Debug\MethodOfArray2.pdb
+C:\Users\Qubesoft\source\repos\Array\MethodOfArray2\obj\Debug\MethodOfArray2.csproj.CoreCompileInputs.cache
+C:\Users\Qubesoft\source\repos\Array\MethodOfArray2\obj\Debug\MethodOfArray2.exe
+C:\Users\Qubesoft\source\repos\Array\MethodOfArray2\obj\Debug\MethodOfArray2.pdb

@@ -1,0 +1,7 @@
+D:\c# study\Inheritance\Class_access\bin\Debug\Class_access.exe.config
+D:\c# study\Inheritance\Class_access\bin\Debug\Class_access.exe
+D:\c# study\Inheritance\Class_access\bin\Debug\Class_access.pdb
+D:\c# study\Inheritance\Class_access\obj\Debug\Class_access.csprojAssemblyReference.cache
+D:\c# study\Inheritance\Class_access\obj\Debug\Class_access.csproj.CoreCompileInputs.cache
+D:\c# study\Inheritance\Class_access\obj\Debug\Class_access.exe
+D:\c# study\Inheritance\Class_access\obj\Debug\Class_access.pdb

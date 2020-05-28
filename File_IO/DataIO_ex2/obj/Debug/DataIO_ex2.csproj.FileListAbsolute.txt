@@ -1,0 +1,6 @@
+C:\Users\Qubesoft\source\repos\File_IO\DataIO_ex2\bin\Debug\DataIO_ex2.exe.config
+C:\Users\Qubesoft\source\repos\File_IO\DataIO_ex2\bin\Debug\DataIO_ex2.exe
+C:\Users\Qubesoft\source\repos\File_IO\DataIO_ex2\bin\Debug\DataIO_ex2.pdb
+C:\Users\Qubesoft\source\repos\File_IO\DataIO_ex2\obj\Debug\DataIO_ex2.csproj.CoreCompileInputs.cache
+C:\Users\Qubesoft\source\repos\File_IO\DataIO_ex2\obj\Debug\DataIO_ex2.exe
+C:\Users\Qubesoft\source\repos\File_IO\DataIO_ex2\obj\Debug\DataIO_ex2.pdb

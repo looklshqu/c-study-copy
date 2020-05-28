@@ -1,0 +1,6 @@
+D:\c# study\Class_feature\Main_Static\bin\Debug\Main_Static.exe.config
+D:\c# study\Class_feature\Main_Static\bin\Debug\Main_Static.exe
+D:\c# study\Class_feature\Main_Static\bin\Debug\Main_Static.pdb
+D:\c# study\Class_feature\Main_Static\obj\Debug\Main_Static.csproj.CoreCompileInputs.cache
+D:\c# study\Class_feature\Main_Static\obj\Debug\Main_Static.exe
+D:\c# study\Class_feature\Main_Static\obj\Debug\Main_Static.pdb

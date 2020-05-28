@@ -1,0 +1,7 @@
+D:\c# study\Inheritance\Constructor_destructor\bin\Debug\Constructor_destructor.exe.config
+D:\c# study\Inheritance\Constructor_destructor\bin\Debug\Constructor_destructor.exe
+D:\c# study\Inheritance\Constructor_destructor\bin\Debug\Constructor_destructor.pdb
+D:\c# study\Inheritance\Constructor_destructor\obj\Debug\Constructor_destructor.csprojAssemblyReference.cache
+D:\c# study\Inheritance\Constructor_destructor\obj\Debug\Constructor_destructor.csproj.CoreCompileInputs.cache
+D:\c# study\Inheritance\Constructor_destructor\obj\Debug\Constructor_destructor.exe
+D:\c# study\Inheritance\Constructor_destructor\obj\Debug\Constructor_destructor.pdb

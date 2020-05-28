@@ -1,0 +1,6 @@
+D:\c# study\Class_feature\This_feat\bin\Debug\This_feat.exe.config
+D:\c# study\Class_feature\This_feat\bin\Debug\This_feat.exe
+D:\c# study\Class_feature\This_feat\bin\Debug\This_feat.pdb
+D:\c# study\Class_feature\This_feat\obj\Debug\This_feat.csproj.CoreCompileInputs.cache
+D:\c# study\Class_feature\This_feat\obj\Debug\This_feat.exe
+D:\c# study\Class_feature\This_feat\obj\Debug\This_feat.pdb

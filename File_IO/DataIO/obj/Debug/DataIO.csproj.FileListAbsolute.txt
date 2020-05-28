@@ -1,0 +1,7 @@
+C:\Users\Qubesoft\source\repos\File_IO\DataIO\bin\Debug\DataIO.exe.config
+C:\Users\Qubesoft\source\repos\File_IO\DataIO\bin\Debug\DataIO.exe
+C:\Users\Qubesoft\source\repos\File_IO\DataIO\bin\Debug\DataIO.pdb
+C:\Users\Qubesoft\source\repos\File_IO\DataIO\obj\Debug\DataIO.csprojAssemblyReference.cache
+C:\Users\Qubesoft\source\repos\File_IO\DataIO\obj\Debug\DataIO.csproj.CoreCompileInputs.cache
+C:\Users\Qubesoft\source\repos\File_IO\DataIO\obj\Debug\DataIO.exe
+C:\Users\Qubesoft\source\repos\File_IO\DataIO\obj\Debug\DataIO.pdb
