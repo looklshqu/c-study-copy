@@ -1,0 +1,7 @@
+D:\c# study\Method Parameter\Method Parameter\Method Parameter\bin\Debug\Method Parameter.exe.config
+D:\c# study\Method Parameter\Method Parameter\Method Parameter\bin\Debug\Method Parameter.exe
+D:\c# study\Method Parameter\Method Parameter\Method Parameter\bin\Debug\Method Parameter.pdb
+D:\c# study\Method Parameter\Method Parameter\Method Parameter\obj\Debug\Method Parameter.csprojAssemblyReference.cache
+D:\c# study\Method Parameter\Method Parameter\Method Parameter\obj\Debug\Method Parameter.csproj.CoreCompileInputs.cache
+D:\c# study\Method Parameter\Method Parameter\Method Parameter\obj\Debug\Method Parameter.exe
+D:\c# study\Method Parameter\Method Parameter\Method Parameter\obj\Debug\Method Parameter.pdb
